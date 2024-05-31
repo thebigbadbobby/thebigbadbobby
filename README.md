@@ -1,7 +1,6 @@
 - 👋 Hi, I’m   : Bobby Missirian
-- 👀 Interest  : Burping, Surfing
-- 🌱 Learning  : Javascript
-- 🐈 Working on: Cat
+- 👀 Interest  : Surfing
+- 🐈 Working on: GSR at UC Davis
 - 📫 Contact at: ramissirian@gmail.com
 
 <!---
